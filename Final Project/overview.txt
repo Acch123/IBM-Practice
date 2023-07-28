@@ -1,1 +1,8 @@
+Project background and context:
+SpaceY is formed in 2023
+Our first goal is to defeat SpaceX.
+
+Problems I want to find answers:
+What success Rate is required to defeat SpaceX.
+How is SpaceX performed based on different factors
 
